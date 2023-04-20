@@ -17,7 +17,7 @@ let package = Package(
     dependencies: [
         // Dependencies declare other packages that this package depends on.
         // .package(url: /* package url */, from: "1.0.0"),
-        .package(name: "RouterLibrary",url: "http://muzammilpeer.com:9090/scm/sw/routerlibrary.git", .branch("master"))
+        .package(name: "RouterLibrary",url: "https://github.com/iOS-App-Development/routerlibrary.git", .branch("master"))
 
     ],
     targets: [
