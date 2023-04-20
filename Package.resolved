@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "RouterLibrary",
+        "repositoryURL": "http://muzammilpeer.com:9090/scm/sw/routerlibrary.git",
+        "state": {
+          "branch": "master",
+          "revision": "b9bb368b23954c4c6c3c1b0d9a82ffc16667c994",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
